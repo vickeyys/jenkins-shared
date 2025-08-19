@@ -1,3 +1,3 @@
 def call() {
-  echo "greetings form shared library"
+  sh 'echo this is the shared library project'
 }
