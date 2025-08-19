@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install -y maven tree
+sudo apt install -y maven tree
